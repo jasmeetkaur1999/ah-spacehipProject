@@ -1,0 +1,31 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmeetkaur1999/Ah-Spaceships-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasmeetkaur1999/Ah-Spaceships-/issues"
+  },
+  "homepage": "https://github.com/jasmeetkaur1999/Ah-Spaceships-#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
